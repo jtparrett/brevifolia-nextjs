@@ -9,7 +9,7 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-upload_dir: public/static
+upload_dir: static
 public_path: "../public/static"
 front_matter_path: ''
 use_front_matter_path: false
